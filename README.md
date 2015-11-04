@@ -1,5 +1,5 @@
 #How to Deploy a NodeJS Application to Heroku
------
+
  - Install the Heroku toolbelt (give hyperlinks)
  - Add public key to Heroku accounts (give hyperlink) to enable SSH
  - Create a NodeJS application
@@ -11,6 +11,5 @@
  - ```git push heroku master``` to deploy to heroku
 
 #References
------
 
  - [Markdown](https://daringfireball.net/projects/markdown/syntax)
