@@ -14,10 +14,9 @@
 
  - [Markdown](https://daringfireball.net/projects/markdown/syntax)
 
- Steps on launching heroku apps
-==============================
+ #Steps on launching heroku apps
 
-#Installing Heroku ToolBelt
+##Installing Heroku ToolBelt
     
 - First you need to download heroku toolbelt to start using heroku.
 [heroku toolbelt link](https://toolbelt.heroku.com/)
@@ -25,7 +24,7 @@
 - After downloading, install heroku via terminal by typing "heroku".... This process might take a few minutes.
 - After installing, check to see Heroku has been installed by typing "heroku --version"... This will show you the latest/recent version of heroku.
 
-#Generating SSH key
+##Generating SSH key
  - Here is the link for step-by-step process on generating a SSH key for heroku.
  [link](https://devcenter.heroku.com/articles/keys)
  - To get SSH key you want to type "ssh-keygen -t rsa" to the terminal.
