@@ -19,7 +19,7 @@
 ##Installing Heroku ToolBelt
     
 - First you need to download heroku toolbelt to start using heroku.
-[heroku toolbelt link](https://toolbelt.heroku.com/)
+- [heroku toolbelt link](https://toolbelt.heroku.com/)
 - Download Heroku toolbelt.
 - After downloading, install heroku via terminal by typing "heroku".... This process might take a few minutes.
 - After installing, check to see Heroku has been installed by typing "heroku --version"... This will show you the latest/recent version of heroku.
