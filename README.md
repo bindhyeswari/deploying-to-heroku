@@ -14,7 +14,7 @@
 
  - [Markdown](https://daringfireball.net/projects/markdown/syntax)
 
- #Steps on launching heroku apps
+#Steps on launching heroku apps
 
 ##Installing Heroku ToolBelt
     
