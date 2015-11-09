@@ -26,7 +26,7 @@
 
 ##Generating SSH key
  - Here is the link for step-by-step process on generating a SSH key for heroku.
- [link](https://devcenter.heroku.com/articles/keys)
+ - [Link for Reference](https://devcenter.heroku.com/articles/keys)
  - To get SSH key you want to type "ssh-keygen -t rsa" to the terminal.
  - Press enter to save the key into default path
  - Set up a password so no one can have access to your SSH keys
